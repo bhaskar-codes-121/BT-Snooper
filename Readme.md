@@ -9,9 +9,9 @@ a) As of now, the app performs a "cat" operation to read any file in the android
 
 b)As soon as it assumes superuser role, it can read another application's internal files (eg. /data/data/com.something.interesting/Logs/log.txt).  
 
-b) No prerequisites for installation.   
+c) No prerequisites for installation.   
 
-c) Android Kitkat and above supported.  
+d) Android Kitkat and above supported.  
 
 <h2>Demonstration:</h2>
 
