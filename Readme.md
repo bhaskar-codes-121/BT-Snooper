@@ -3,10 +3,11 @@
 <h2>Description</h2>
 This is a simple PoC android application to demonstrate the risks pertaining to allowing installation of any application on a rooted device.
 
-<h2>Salient Features</h2>
-a) As of now, the app performs a "cat" operation to read any file in the android system, and as soon as it assumes superuser role,   
-it can read any app's internal files (eg. /data/data/com.something.interesting/Logs/log.txt).  
+<h2>Salient Features</h2>   
+   
+a) As of now, the app performs a "cat" operation to read any file in the android system.    
 
+b)As soon as it assumes superuser role, it can read another application's internal files (eg. /data/data/com.something.interesting/Logs/log.txt).  
 
 b) No prerequisites for installation.   
 
