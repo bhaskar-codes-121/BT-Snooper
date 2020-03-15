@@ -5,9 +5,12 @@ This is a simple PoC android application to demonstrate the risks pertaining to 
 
 <h2>Salient Features</h2>
 a) As of now, the app performs a "cat" operation to read any file in the android system, and as soon as it assumes superuser role,   
-* it can read any app's internal files (eg. /data/data/com.something.interesting/Logs/log.txt).  
-* No prerequisites for installation.   
-* Android Kitkat and above supported.  
+it can read any app's internal files (eg. /data/data/com.something.interesting/Logs/log.txt).  
+
+
+b) No prerequisites for installation.   
+
+c) Android Kitkat and above supported.  
 
 <h2>Demonstration:</h2>
 
